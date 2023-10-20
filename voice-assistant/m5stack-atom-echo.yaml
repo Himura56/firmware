@@ -102,7 +102,7 @@ voice_assistant:
 binary_sensor:
   - platform: gpio
     pin:
-      number: GPIO39
+      number: GPIO35
       inverted: true
     name: Button
     disabled_by_default: true
